@@ -1,0 +1,4 @@
+rootProject.name = 'SpringExercises2-Coupling'
+include 'LooseCoupled'
+include 'IoCSpringDependency'
+
