@@ -4,6 +4,7 @@ A repository to analyse and exercise the Coupling concepts and to understand the
 
 * Tight Coupling
 * Loose Coupling
+* Dependency Injection (DI)
 * Inversion of Control (IoC)
 * Spring Beans
 * Spring Context / Spring Container: AnnotationConfig - ApplicationContext

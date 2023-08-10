@@ -2,6 +2,8 @@ package org.hulyam;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         // SpringConfiguration dosyasında oluşturduğumuz beane ulaşmaya çalışıyoruz.
@@ -20,5 +22,10 @@ public class Main {
 
         // With Class Names
         System.out.println(context.getBean(Address.class));
+
+        // All Beans Controlled by Spring Framework
+        System.out.println("========All Beans Controlled by Spring Framework========");
+        Arrays.stream(context.getBeanDefinitionNames()).forEach(System.out::println);
+        System.out.println("========================================================");
     }
 }
