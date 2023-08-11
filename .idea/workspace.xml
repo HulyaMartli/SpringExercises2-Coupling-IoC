@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57f1b52a-a9b6-4caa-848a-db20c398d638" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="57f1b52a-a9b6-4caa-848a-db20c398d638" name="Changes" comment="Ejb, DI, Spring Context...">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/PojoSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/PojoSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/ejbSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/EjbSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/hulyam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hulyam/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +28,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3c2a2f1-6bd3-4ebb-8e38-8573266fbb33" />
+        <option name="url" value="https://github.com/HulyaMartli/SpringExercises2-Coupling-IoC.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -47,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Hülü/Desktop/BA BOOST HULYA (August 23)/SPRING/SpringExercises2-Coupling-IoC"
+    "last_opened_file_path": "C:/Users/Hülü/Desktop/BA BOOST HULYA (August 23)/SPRING/SpringExercies1-Intro"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -57,11 +65,14 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Hülü\Desktop\BA BOOST HULYA (August 23)\SPRING\SpringExercises2-Coupling\LooseCoupled\src\main\java\org\hulyam" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Hülü\Desktop\BA BOOST HULYA (August 23)\SPRING\SpringExercises2-Coupling-IoC" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.hulyam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hulyam.Main" />
       <module name="SpringExercises2-Coupling.LooseCoupled.main" />
@@ -116,7 +127,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -131,6 +141,25 @@
       <option name="presentableId" value="Default" />
       <updated>1691228587592</updated>
     </task>
+    <task id="LOCAL-00001" summary="Ejb, DI, Spring Context...">
+      <created>1691708560365</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691708560365</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejb, DI, Spring Context...">
+      <created>1691708574134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691708574134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejb, DI, Spring Context..." />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejb, DI, Spring Context..." />
   </component>
 </project>
