@@ -4,7 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57f1b52a-a9b6-4caa-848a-db20c398d638" name="Changes" comment="workspace.xml" />
+    <list default="true" id="57f1b52a-a9b6-4caa-848a-db20c398d638" name="Changes" comment="workspace.xml">
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpring/src/main/java/org/hulyam/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/IShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/Rectangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LooselyCoupledtoSpringComponent/src/main/java/org/hulyam/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/EjbSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/EjbSample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/SpringConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoCSpringDependency/src/main/java/org/hulyam/SpringConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/IShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/IShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/Rectangular.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/Rectangular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LooseCoupled/src/main/java/org/hulyam/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/LooselyCoupled/src/main/java/org/hulyam/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +96,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "19",
-    "last_opened_file_path": "C:/Users/Hülü/Desktop/BA BOOST HULYA (August 23)/SPRING/SpringExercises2-Coupling-IoC"
+    "last_opened_file_path": "C:/Users/Hülü/Desktop/BA BOOST HULYA (August 23)/SPRING/SpringExercises2-Coupling-IoC/LooselyCoupledtoSpring2/src/main/java/org/hulyam",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -78,6 +107,8 @@
       <recent name="org.hulyam" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Hülü\Desktop\BA BOOST HULYA (August 23)\SPRING\SpringExercises2-Coupling-IoC\LooselyCoupledtoSpring2\src\main\java\org\hulyam" />
+      <recent name="C:\Users\Hülü\Desktop\BA BOOST HULYA (August 23)\SPRING\SpringExercises2-Coupling-IoC\LooselyCoupledtoSpring\src\main\java\org\hulyam" />
       <recent name="C:\Users\Hülü\Desktop\BA BOOST HULYA (August 23)\SPRING\SpringExercises2-Coupling\LooseCoupled\src\main\java\org\hulyam" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -87,10 +118,25 @@
       <recent name="org.hulyam" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.hulyam.Main" />
-      <module name="SpringExercises2-Coupling.LooseCoupled.main" />
+      <module name="SpringExercises2-Coupling.LooselyCoupledtoSpring.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hulyam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hulyam.Main" />
+      <module name="SpringExercises2-Coupling.LooselyCoupledtoSpringComponent.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.hulyam.*" />
@@ -142,6 +188,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -177,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691762616581</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="workspace.xml">
+      <created>1691814996311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691814996311</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

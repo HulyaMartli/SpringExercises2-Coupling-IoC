@@ -9,8 +9,11 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DependencyInjectionTypes" />
             <option value="$PROJECT_DIR$/IoCSpringDependency" />
-            <option value="$PROJECT_DIR$/LooseCoupled" />
+            <option value="$PROJECT_DIR$/LooselyCoupled" />
+            <option value="$PROJECT_DIR$/LooselyCoupledtoSpring" />
+            <option value="$PROJECT_DIR$/LooselyCoupledtoSpringComponent" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -10,7 +10,7 @@ public class EjbSample implements Serializable {
      * Getters & Setters
      * Implements Serializable
      */
-    public EjbSample(){
+    public EjbSample() {
 
     }
 
