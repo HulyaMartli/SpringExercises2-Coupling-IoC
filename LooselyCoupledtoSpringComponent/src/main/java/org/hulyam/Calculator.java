@@ -7,9 +7,11 @@ import org.springframework.stereotype.Component;
 @Component
 public class Calculator {
     // Square shape;
-    @Autowired
-    @Qualifier("rectangular")
     IShape shape;
+
+    public Calculator(@Qualifier("rectangular") IShape shape) {
+        this.shape = shape;
+    }
 
     public void calculate() {
         System.out.println("Calculate method is running for the shape... " + shape);
